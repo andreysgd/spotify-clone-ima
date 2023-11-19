@@ -1,2 +1,2 @@
 # Clone do Spotify
-Desafio guiado do Imã - Sharp Coders
+Desafio guiado do Ímã - Sharp Coders
